@@ -8,9 +8,9 @@ Soy una persona curiosa y enfocada en crear interfaces funcionales, accesibles y
 ---
 
 ### Lo que estoy haciendo ahora
-- Profundizando en **React**, **Next.js** y **TypeScript**
-- Explorando **Python** e **IA**
-- Aprendiendo **React Native** para desarrollo móvil
+- Entrenando y experimentando con modelos de **Machine Learning**
+- Profundizando en **IA aplicada** con Python
+- Construyendo interfaces con **React**, **Next.js** y **TypeScript**
 
 ---
 
@@ -29,13 +29,13 @@ Soy una persona curiosa y enfocada en crear interfaces funcionales, accesibles y
 ### Proyectos
 Algunos de mis proyectos personales están publicados y accesibles desde mis repos, por si quieres echarles un vistazo.
 
-> Mejorando constantemente código, UI y rendimiento.
+>Iterando constantemente sobre código, datos y diseño.
 
 ---
 
 ### Un poquito sobre mí
-Me gusta la tecnología, resolver problemas y trabajar en equipo.  
-Creo que siempre hay una forma más simple y elegante de construir lo mismo.
+Me atrae resolver problemas con tecnología, especialmente cuando la solución es simple y elegante.
+Creo que la IA bien aplicada puede cambiar la forma en que construimos software.
 
 Fuera del código: fan de los cactus, las miniaturas y los animales.
 
